@@ -1,0 +1,26 @@
+.header-title {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .header-button-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .add-new-blog-button {
+    border: 1px solid black;
+    padding: 5px 5px;
+    background-color: blue;
+    color:white;
+    cursor: pointer;
+    font-size: 16px;
+    
+  }
+  
+  .add-new-blog-button:hover {
+    background-color: blue; 
+    color: white; 
+    border-color: black; 
+  }
+  

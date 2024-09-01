@@ -1,0 +1,49 @@
+
+.blog-details {
+  text-align: left;
+}
+
+.image-container {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+p {
+  margin-top: 10px;
+}
+
+.button-group {
+  margin-top: 10px;
+}
+
+.edit-blog-button {
+  background-color: green;
+  color: white;
+}
+
+.edit-blog-button:hover {
+  background-color: green; 
+  color: white; 
+  border-color: black; 
+}
+
+
+.delete-blog-button {
+  background-color: red;
+  color: white;
+}
+
+.delete-blog-button:hover {
+  background-color: red; 
+  color: white; 
+  border-color: black; 
+}
